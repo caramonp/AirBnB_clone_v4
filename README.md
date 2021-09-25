@@ -160,9 +160,10 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Version 4 AirBnB:
-Martha Liliana Sepúlveda Lindarte - [Github](https://github.com/LilianaSepulveda) / [Twitter](https://twitter.com/LiliSepulveda13)
-Juan Camilo Cadavid Velásquez - [Github](https://github.com/Juansu01) / [Twitter](https://twitter.com/TheJuan39)
-Carolina Ramon Palacio - [Github](https://github.com/caramonp) / [Twitter](https://twitter.com/CarolinaRP1)
+Martha Liliana Sepúlveda Lindarte - [Github](https://github.com/LilianaSepulveda) / [Twitter](https://twitter.com/LiliSepulveda13)  
+Juan Camilo Cadavid Velásquez - [Github](https://github.com/Juansu01) / [Twitter](https://twitter.com/TheJuan39)  
+Carolina Ramon Palacio - [Github](https://github.com/caramonp) / [Twitter](https://twitter.com/CarolinaRP1)  
+
 
 Second part of Airbnb: Joann Vuong
 ## License
