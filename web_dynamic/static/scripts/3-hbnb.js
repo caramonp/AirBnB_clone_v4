@@ -24,8 +24,8 @@ const url = 'http://192.168.100.28:5001/api/v1/status/';
 
 function request (){
   $.ajax({
-    url = 'http://0.0.0.0:5001/api/v1/places_search/',
-    type = "POST",
+    url: 'http://0.0.0.0:5001/api/v1/places_search/',
+    type: "POST",
     data = {},
     dataType: 'json',
     contentType: 'application/json',
@@ -52,5 +52,5 @@ function request (){
           </div>`);
     }
     }
-  })
+  });
 }
