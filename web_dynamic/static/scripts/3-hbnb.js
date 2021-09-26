@@ -26,7 +26,7 @@ function request (){
   $.ajax({
     url: 'http://0.0.0.0:5001/api/v1/places_search/',
     type: "POST",
-    data = {},
+    data: {},
     dataType: 'json',
     contentType: 'application/json',
     success: function (data){
