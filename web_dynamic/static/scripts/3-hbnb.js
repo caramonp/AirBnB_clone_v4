@@ -46,7 +46,7 @@ function request (){
           </div>
           <div class="description">
 	    {{ place.description | safe }}
-          </div>`)
+          </div)
     }
     }
   })
