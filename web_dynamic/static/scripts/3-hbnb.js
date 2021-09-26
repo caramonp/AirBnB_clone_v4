@@ -40,9 +40,9 @@ function request (){
 	    <div class="price_by_night">${ place.price_by_night }</div>
 	  </div>
 	  <div class="information">
-	    <div class="max_guest">${ place.max_guest } Guest${cond1}s{% endif %}</div>
-            <div class="number_rooms">${ place.number_rooms } Bedroom${cond2}s{% endif %}</div>
-            <div class="number_bathrooms">${ place.number_bathrooms } Bathroom${cond3}s{% endif %}</div>
+	    <div class="max_guest">${ place.max_guest } Guest${cond1}</div>
+            <div class="number_rooms">${ place.number_rooms } Bedroom${cond2}</div>
+            <div class="number_bathrooms">${ place.number_bathrooms } Bathroom${cond3}</div>
 	  </div>
 	  <div class="user">
             <b>Owner:</b> ${ place.user.first_name } ${ place.user.last_name }
